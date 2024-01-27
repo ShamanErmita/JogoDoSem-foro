@@ -1,1 +1,1 @@
-# JogoDoSem-foro
+# JogoDoSemaforo
